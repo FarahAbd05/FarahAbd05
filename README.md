@@ -38,7 +38,7 @@ I’m passionate about the intersection of **hardware, software, and AI**, build
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/farah-fawcett-abdullah/)  
 - Email: **farahabdullah255@gmail.com**  
