@@ -29,7 +29,7 @@ I’m passionate about the intersection of **hardware, software, and AI**, build
   - 🔑 [Password Generator](https://github.com/FarahAbd05/PasswordGenerator)  
     A customizable random password generator that creates strong, secure passwords using Python’s random and string libraries.  
 
-- 🔧 **Arduino Project – Silent Scheduler Band (IEEE Contest 2025 Prototype)**  
+- 🔧 **Arduino Project – Silent Scheduler Band (IEEE SSCS Arduino Contest 2025 Prototype)**  
   [🔗 View on GitHub](https://github.com/FarahAbd05/SilentSchedulerBand)  
   *A wearable assistive technology device using **Arduino, RTC, LCD, vibration motors, and RGB LEDs** to deliver silent multisensory reminders.*  
 
