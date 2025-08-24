@@ -5,7 +5,7 @@ I’m passionate about the intersection of **hardware, software, and AI**, build
 
 ---
 
-## 💫 About Me  
+## About Me  
 - Rising junior at **Cornell ECE** (Class of 2027)  
 - Currently working as a **Front-End Web Developer** at Microsoft SCIP  
 - Experienced in **Python, C, C++, HTML/CSS, JavaScript, React, Tailwind, AutoCAD, and bioinformatics tools**  
@@ -14,7 +14,7 @@ I’m passionate about the intersection of **hardware, software, and AI**, build
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 - **Python Projects**  
   - 🧮 [Basic Calculator](https://github.com/FarahAbd05/BasicCalculator)  
