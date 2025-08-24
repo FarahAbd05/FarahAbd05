@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Farah Abdullah**, a junior at Cornell University majoring in **Electrical and Computer Engineering (ECE)**.  
-I’m passionate about the intersection of **hardware, software, and AI** — building projects that combine engineering with real-world impact.  
+I’m passionate about the intersection of **hardware, software, and AI**, building projects that combine engineering with real-world impact.  
 
 ---
 
