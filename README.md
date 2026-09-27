@@ -6,8 +6,8 @@ I’m passionate about the intersection of **hardware, software, and AI**, build
 ---
 
 ## About Me  
-- Rising junior at **Cornell ECE** (Class of 2027)  
-- Currently working as a **Front-End Web Developer** at Microsoft SCIP  
+- Senior at **Cornell ECE** (Class of 2027)  
+- Currently working as an Electrical Engineer / Controls & Automation Engineer at Turnover Labs
 - Experienced in **Python, C, C++, HTML/CSS, JavaScript, React, Tailwind, AutoCAD, and bioinformatics tools**  
 - Recent hands-on experiences in **AI, spatial transcriptomics, cybersecurity, and embedded systems**  
 - Excited to collaborate on **AI, hardware-software systems, and digital health innovations**  
